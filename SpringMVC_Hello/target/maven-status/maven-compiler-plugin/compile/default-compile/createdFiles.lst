@@ -1,0 +1,4 @@
+net\fujitsu\springmvc\helloworld\controller\HelloController.class
+net\fujitsu\springmvc\helloworld\config\SpringMvcDispatcherServletInitializer.class
+net\fujitsu\springmvc\helloworld\config\AppConfig.class
+net\fujitsu\springmvc\helloworld\model\HelloModel.class
