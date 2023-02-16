@@ -1,0 +1,4 @@
+com\fujitsu\springmvc\signupform\controller\SignUpController.class
+com\fujitsu\springmvc\signupform\config\SpringMvcDispatcherServletInitializer.class
+com\fujitsu\springmvc\signupform\config\MvcConfig.class
+com\fujitsu\springmvc\signupform\model\SignUpModel.class
