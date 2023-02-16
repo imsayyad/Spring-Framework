@@ -1,0 +1,4 @@
+com\fujitsu\springmvc\form\config\SpringMvcDispatcherServletInitializer.class
+com\fujitsu\springmvc\form\config\MVCConfig.class
+com\fujitsu\springmvc\form\controller\CustomerController.class
+com\fujitsu\springmvc\form\model\Customer.class
